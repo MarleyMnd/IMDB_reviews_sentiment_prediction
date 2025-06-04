@@ -1,0 +1,11 @@
+.venv/
+.idea/
+src/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+data/hyperparameters/best_hyperparameters.json
+data/processed_dataset/processed_dataset.csv
+data/raw_dataset/datasets/
+data/vectorizer/tfidf_vocabulary.json
