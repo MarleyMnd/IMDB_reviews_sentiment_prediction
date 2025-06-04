@@ -5,9 +5,10 @@
 ## Table of Contents
 
 - [Project Structure](#project-structure)  
-- [Installation Requirements](#requirements)
-- [Usage Instructions](#setup-instructions)
+- [Requirements](#requirements)
+- [Setup Instructions](#setup-instructions)
 - [Important Notes](#important-notes)
+- [Directory Structure Overview](#directory-structure-overview)
 
 ---
 
